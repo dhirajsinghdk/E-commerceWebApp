@@ -1,0 +1,68 @@
+import img3 from "../Asset/images/img3.jpg";
+const ProductData = [
+  {
+    id: 1,
+    name: "ShoesF1",
+    price: "Rs: 2000",
+    discription: "this is one of the best product forever",
+    sold: 20,
+    img: img3,
+  },
+  {
+    id: 2,
+    name: "ShoesF2",
+    price: "Rs: 1500",
+    discription: "this is one of the best product forever",
+    sold: 20,
+    img: img3,
+  },
+  {
+    id: 3,
+    name: "ShoesF3",
+    price: "Rs: 2100",
+    discription: "this is one of the best product forever",
+    sold: 20,
+    img: img3,
+  },
+  {
+    id: 4,
+    name: "ShoesF4",
+    price: "Rs: 12000",
+    discription: "this is one of the best product forever",
+    sold: 20,
+    img: img3,
+  },
+  {
+    id: 5,
+    name: "ShoesF5",
+    price: "Rs: 2000",
+    discription: "this is one of the best product forever",
+    sold: 20,
+    img: img3,
+  },
+  {
+    id: 6,
+    name: "ShoesF6",
+    price: "Rs: 3000",
+    discription: "this is one of the best product forever",
+    sold: 20,
+    img: img3,
+  },
+  {
+    id: 7,
+    name: "ShoesF7",
+    price: "Rs: 2200",
+    discription: "this is one of the best product forever",
+    sold: 20,
+    img: img3,
+  },
+  {
+    id: 8,
+    name: "ShoesF2",
+    price: "Rs: 2000",
+    discription: "this is one of the best product forever",
+    sold: 20,
+    img: img3,
+  },
+];
+export default ProductData;
